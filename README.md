@@ -8,7 +8,7 @@
 
 ### Questions Answered
 1. What is the total amount each customer spent at the restaurant?
-2. How many days has each customers visited the restaurant?
+2. How many days has each customer visited the restaurant?
 3. What menu item did each customer order first?
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 5. Which menu item was the most popular for each customer?
